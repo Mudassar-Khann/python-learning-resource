@@ -16,17 +16,27 @@ This project is designed for **beginners to advanced learners** who want to unde
 
 ---
 
-## Learning Path
+## Learning Roadmap (Continuously Updated)
 
-1. Python Basics
-2. Control Flow (Conditionals & Loops)
-3. Functions & Problem Solving
-4. Data Structures (List, Tuple, Set, Dictionary)
-5. Object-Oriented Programming (OOP)
-6. Modules and Packages
-7. File Handling
-8. Error and Exception Handling
-9. Advanced Python Concepts
+This repository grows step-by-step as new topics are learned and added.
+
+### Core Foundations
+- Python Basics
+- Control Flow (Conditionals & Loops)
+- Functions & Problem Solving
+- Data Structures (List, Tuple, Set, Dictionary)
+- Object-Oriented Programming (OOP)
+
+### Intermediate
+- Modules and Packages
+- File Handling
+- Error and Exception Handling
+
+### Advanced & Expanding
+- Advanced Python Concepts
+- (New topics will be added progressively)
+
+> This roadmap evolves as the project grows. Topics may expand, reorder, or deepen over time.
 
 ---
 
@@ -114,4 +124,4 @@ To build one of the most clear, structured, and practical **Python learning reso
 
 ## License
 
-Open-source for learning and educational use.
+This project is licensed under the MIT License see the LICENSE file for details.
