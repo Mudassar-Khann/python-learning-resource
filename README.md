@@ -90,6 +90,39 @@ jupyter notebook
 ```
 
 ---
+## Download Notebooks
+
+You can download and use the notebooks in two ways:
+
+### Download a Single Notebook
+
+1. Open any `.ipynb` file in this repository
+2. Click **Download** (top right) or open **Raw**
+3. Save the file to your computer
+4. Open using Jupyter Notebook or VS Code
+
+### Download the Full Repository
+
+1. Click **Code → Download ZIP**
+2. Extract the ZIP file
+3. Open the folder locally
+4. Run using Jupyter Notebook
+
+---
+
+## Run Notebooks Online (Google Colab)
+
+You can run notebooks directly in your browser without installing Python.
+
+1. Open the notebook you want on GitHub
+2. Copy the notebook URL
+3. Go to **https://colab.research.google.com**
+4. Click **GitHub** tab
+5. Paste the notebook link
+6. Open and run instantly
+
+*(Colab supports most Python libraries used in this repository.)*
+
 
 ## Contributing (Open Learning Resource)
 
@@ -119,6 +152,7 @@ This repository is updated regularly with new learning content, improvements, an
 ## Goal
 
 To build one of the most clear, structured, and practical **Python learning resources** available for free.
+I will keep updating it as i learn new things 
 
 ---
 
