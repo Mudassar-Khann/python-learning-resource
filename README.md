@@ -68,7 +68,7 @@ No download, no setup required.
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/python-learning-resource.git
+git clone https://github.com/Mudassar-Khann/python-learning-resource.git
 ```
 
 2. Move into the folder
@@ -152,7 +152,7 @@ This repository is updated regularly with new learning content, improvements, an
 ## Goal
 
 To build one of the most clear, structured, and practical **Python learning resources** available for free.
-I will keep updating it as i learn new things 
+I will keep updating it as i learn new things
 
 ---
 
